@@ -2,3 +2,8 @@ ini adalah perjalananku untuk menjadi programing
 - dari belajar di youtube secara otodidak
 - ditemani mentor yang seadanya
 - membuat website yang berguna bagi banyak orang
+alur perjalanan baru akan segera dimulai
+1. semua yang akan aku pelajari akan dipush digithub
+2. dari sini aku akan menyelesaikan apa yang sudah aku mulai
+3. sambil aku belajar aku akan mengerjakan web portofolioku
+4. kita mulai dari belajar node js. (dalam proses)
